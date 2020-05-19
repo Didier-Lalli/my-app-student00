@@ -13,7 +13,7 @@ import React from 'react'
             <Home color="brand" />
             <Box align="center" justify="center" direction="row" gap="xsmall">
               <Text weight="bold" color="text-strong">
-                StudentXX
+                Student00
               </Text>
               <Text color="text-strong">
                 Portfolio
@@ -33,7 +33,7 @@ import React from 'react'
           <Box align="center" justify="center" pad="xsmall" margin="xsmall">
             <Box align="center" justify="center" pad="large" margin="medium" background={{"dark":false,"color":"light-2","image":"url('https://us-central1-grommet-designer.cloudfunctions.net/images/pramod-reddy-sareddy-hpe-com/MyHPEDevPic_resize.png\n')"}} round="full" />
             <Heading level="2" size="medium" margin="xsmall" textAlign="center">
-              Pramod Sareddy
+              Didier Lalli
             </Heading>
             <Text textAlign="center">
               Full Stack Developer
